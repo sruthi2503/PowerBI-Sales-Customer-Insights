@@ -114,3 +114,10 @@ Customers aged 26–35 are the highest spenders.
 Digital payment modes (UPI / Cards) dominate transactions.
 
 Online sales channels outperform offline channels.
+<img width="762" height="432" alt="Image" src="https://github.com/user-attachments/assets/2d735e6e-c33d-4735-b3b9-1e2ae0de9963" />
+
+<img width="763" height="429" alt="Image" src="https://github.com/user-attachments/assets/fe15f82b-f6d1-4bc2-bfec-4a2fb3c51317" />
+
+<img width="769" height="436" alt="Image" src="https://github.com/user-attachments/assets/2c6a452f-f184-445e-8e14-78e73f4cfbcc" />
+
+<img width="759" height="430" alt="Image" src="https://github.com/user-attachments/assets/867a0502-f01b-4888-aa6b-9925b2546830" />
